@@ -3,8 +3,8 @@
     <center><img src="sparkbrief_banner.png" alt="SPARKBRIEF Logo" height="307"></center>
   </div>
   <div class="catchphrase">Brief Today. Build Tomorrow.</div>
-  <div class="catchphrase">From Idea to Insight—In a Spark.</div>
-  <h1>SPARKBRIEF - <span style="color:#FFD86A;">Quick PRD Generator</span></h1>
+
+  <h1>SPARKBRIEF.IO - <span style="color:#FFD86A;">Instant PRD creator</span></h1>
   <div class="section">
     <h2>🚀 Instantly Create Actionable Product Requirement Documents (PRDs)</h2>
     <p>
