@@ -95,12 +95,11 @@
     <h2>🤝 Support & Feedback</h2>
     <p>
       Questions, suggestions, or want to get early access to new features?<br>
-      <a href="mailto:support@sparkbrief.io">Contact our team</a> or <a href="https://github.com/nuttyproducer/quick-prd-generator-main/issues">open an issue</a>!
+      <a href="mailto:info@sparkbrief.io">Contact our team</a> or <a href="https://github.com/nuttyproducer/quick-prd-generator-main/issues">open an issue</a>!
     </p>
   </div>
 
   <div class="footer-logo">
-    <img src="./sparkbrief_logo.png" alt="SPARKBRIEF Logo" height="40"><br>
     <em>SPARKBRIEF © 2025 by NuttyProducer. All rights reserved.</em>
   </div>
 </body>
