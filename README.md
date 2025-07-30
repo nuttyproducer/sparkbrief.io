@@ -1,6 +1,6 @@
 <body>
   <div class="logo">
-    <img src="Sparkbrief_full.png" alt="SPARKBRIEF Logo" height="80">
+    <center><img src="sparkbriefio_logo.png" alt="SPARKBRIEF Logo" height="80"></center>
   </div>
   <div class="catchphrase">Brief Today. Build Tomorrow.</div>
   <div class="catchphrase">From Idea to Insight—In a Spark.</div>
