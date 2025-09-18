@@ -139,7 +139,7 @@ Questions about implementing Sparkbrief in your workflow? Want early access to n
 - 📧 **Email:** [info@sparkbrief.io](mailto:info@sparkbrief.io)
 - 🐛 **Issues:** [GitHub Community](https://github.com/nuttyproducer/sparkbrief.io/issues)
 - 🐦 **Twitter:** [@sparkbrief](https://x.com/sparkbrief)
-- 📝 **Helpcenter:** [blog.sparkbrief.io](https://sparkbrief.io/help)
+- 📝 **Helpcenter:** [sparkbrief.io/help](https://sparkbrief.io/help)
 
 ---
 
