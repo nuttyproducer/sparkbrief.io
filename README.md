@@ -33,35 +33,12 @@ Generate investor-ready documentation, technical specifications, and team-aligne
 ## 📸 **See Sparkbrief in Action**
 
 <div align="center">
-  <p><em>Watch how our AI transforms a simple product idea into a comprehensive PRD with technical specifications, user stories, and acceptance criteria—all in under 10 minutes.</em></p>
+  <p><em>Watch how our AI transforms a simple product idea into a comprehensive PRD with technical specifications, user stories, and acceptance criteria—all in under 3 minutes.</em></p>
   
   <!-- PLACE YOUR APP SCREENSHOTS HERE -->
-  <table>
-    <tr>
-      <td align="center">
-        <img src="screenshot-placeholder-1.png" alt="Index Screen" width="300">
-        <br><b>1. Enter Your Idea</b>
-        <br><em>Simple prompt input</em>
-      </td>
-      <td align="center">
-        <img src="screenshot-placeholder-2.png" alt="AI Generation" width="300">
-        <br><b>2. AI Generation</b>
-        <br><em>8-step process</em>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="screenshot-placeholder-3.png" alt="PRD Output" width="300">
-        <br><b>3. Professional PRD</b>
-        <br><em>Complete documentation</em>
-      </td>
-      <td align="center">
-        <img src="screenshot-placeholder-4.png" alt="Export Options" width="300">
-        <br><b>4. Export & Share</b>
-        <br><em>Multiple formats</em>
-      </td>
-    </tr>
-  </table>
+<div align="center">
+  <img src="sparkbrief.png" alt="SPARKBRIEF Logo" width="100%">
+</div>
   
   <p><strong>From idea to professional documentation in minutes, not hours.</strong></p>
 </div>
