@@ -84,7 +84,7 @@ Sparkbrief understands that different roles need different approaches to product
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3>👔 Traditional Product Managers</h3>
       <ul>
         <li>Enterprise-ready PRDs with compliance and audit trails</li>
@@ -93,21 +93,13 @@ Sparkbrief understands that different roles need different approaches to product
         <li><em>Perfect for regulated industries and large teams</em></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3>🎨 Creative "Vibecoders"</h3>
       <ul>
         <li>Turn creative concepts into professional documentation</li>
         <li>Visual-first approach with design considerations</li>
         <li>Bridge creative vision with technical requirements</li>
-        <li><em>From indie app ideas to startup MVPs</em></li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <h3>⚡ Technical "Vibecoders"</h3>
-      <ul>
-        <li>Architecture documentation and API specifications</li>
-        <li>Developer onboarding and contribution guides</li>
-        <li><em>Perfect for senior developers and tech leads</em></li>
+        <li><em>From indie app ideas to startup MVPs in just an hour!</em></li>
       </ul>
     </td>
   </tr>
