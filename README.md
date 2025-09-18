@@ -1,105 +1,180 @@
-<body>
-  <div class="logo">
-    <center><img src="sparkbrief_banner.png" alt="SPARKBRIEF Logo" height="307"></center>
-  </div>
-  <div class="catchphrase">Brief Today. Build Tomorrow.</div>
+# SPARKBRIEF.IO
+### *Brief Today. Build Tomorrow.*
 
-  <h1>SPARKBRIEF.IO - <span style="color:#FFD86A;">Instant PRD creator</span></h1>
-  <div class="section">
-    <h2>🚀 Instantly Create Actionable Product Requirement Documents (PRDs)</h2>
-    <p>
-      <strong>SPARKBRIEF</strong> is the next-generation PRD generator crafted for designers, developers, no-code makers, indie hackers, and founders.
-      <br><br>
-      Transform your ideas into crystal-clear requirements, ready for teams, investors, or AI coding agents—within minutes.
-    </p>
-    <p class="cta">
-      Try it now at <a href="https://www.sparkbrief.io">www.sparkbrief.io</a>
-    </p>
-  </div>
+<div align="center">
+  <img src="sparkbrief_banner.png" alt="SPARKBRIEF Logo" height="200">
+</div>
 
-  <div class="section">
-    <h2>✨ Key Features</h2>
-    <ul class="features">
-      <li>Lightning-fast PRD creation from industry-tailored templates</li>
-      <li>Export PRDs in Markdown, HTML, and other formats for instant readability by any AI coding agent or No-Code platform</li>
-      <li>Structured outputs optimized for technical specs, acceptance criteria, and design clarity</li>
-      <li>Customizable sections: user stories, API specs, business goals, and more</li>
-      <li>Modern, intuitive interface for rapid iteration</li>
-      <li><em>Collaboration-ready features coming soon!</em></li>
-    </ul>
-  </div>
+<div align="center">
+  <h2>🚀 AI-Powered PRD Generator for Modern Product Teams</h2>
+  <p><strong>Transform ideas into professional Product Requirements Documents in minutes, not hours</strong></p>
+</div>
 
-  <div class="section">
-    <h2>🎯 Who is Sparkbrief For?</h2>
-    <div class="audience">
-      <div class="audience-title">Product Designers</div>
-      <ul>
-        <li>Spend less time on documentation, more time on design</li>
-        <li>Deliver clear technical specs developers will love</li>
-        <li><em>Save 5-10 hours per week on requirements paperwork</em></li>
-      </ul>
-    </div>
-    <div class="audience">
-      <div class="audience-title">Software Developers & Engineers</div>
-      <ul>
-        <li>Receive complete, unambiguous requirements—API specs, acceptance criteria, and more</li>
-        <li>Eliminate scope creep and endless clarification calls</li>
-      </ul>
-    </div>
-    <div class="audience">
-      <div class="audience-title">Indie Hackers & Solo Founders</div>
-      <ul>
-        <li>Go from idea to launch-ready requirements in 24-48 hours</li>
-        <li>Simplify your process and get building—no consultants required</li>
-      </ul>
-    </div>
-    <div class="audience">
-      <div class="audience-title">No-Code & Low-Code Builders</div>
-      <ul>
-        <li>Bridge the gap between visual tools and real technical documentation</li>
-        <li>Get PRDs optimized for platforms like Bubble, Webflow, Glide and more</li>
-      </ul>
-    </div>
-    <div class="audience">
-      <div class="audience-title">Startup Founders & Product Managers</div>
-      <ul>
-        <li>Communicate your product vision with professional, investor-ready documentation</li>
-        <li>Align your team and impress your stakeholders</li>
-      </ul>
-    </div>
-    <div class="audience">
-      <div class="audience-title">Open Source Maintainers & Community Projects</div>
-      <ul>
-        <li>Standardize requirements for contributors</li>
-        <li>Make onboarding easier for new developers, vibecoders, and AI agents</li>
-      </ul>
-    </div>
-    <div class="audience">
-      <div class="audience-title">AI Agents & Vibecoders</div>
-      <ul>
-        <li>Generate project specs readable by AI coding assistants and automation tools</li>
-        <li>Accelerate integration and development with structured, machine-friendly PRDs</li>
-      </ul>
-    </div>
-  </div>
+<div align="center">
+  
+  ![75% Faster](https://img.shields.io/badge/Lightning-Fast%20compared%20to%20manual%20PRDs-blue?style=for-the-badge)
+  ![8 Minutes](https://img.shields.io/badge/2%20Minutes-Average%20creation%20time-green?style=for-the-badge)
 
-  <div class="section">
-    <h2>🌐 Get Started</h2>
-    <p>
-      <b>Ready to transform your product workflow?</b><br>
-      Visit <a href="https://www.sparkbrief.io">www.sparkbrief.io</a> and start generating your next PRD in minutes.
-    </p>
-  </div>
+</div>
 
-  <div class="section">
-    <h2>🤝 Support & Feedback</h2>
-    <p>
-      Questions, suggestions, or want to get early access to new features?<br>
-      <a href="mailto:info@sparkbrief.io">Contact our team</a> or <a href="https://github.com/nuttyproducer/sparkbrief.io/issues">open an issue!</a>
-    </p>
-  </div>
+---
 
-  <div class="footer-logo">
-    <em>SPARKBRIEF © 2025 by NuttyProducer. All rights reserved.</em>
-  </div>
-</body>
+## 🎯 **What is Sparkbrief?**
+
+**SPARKBRIEF** is the AI-powered PRD generator that gets it. Whether you're a PM grinding through enterprise requirements, a creative vibecoder with the next big app idea, or a technical lead tired of translating code into business-speak, Sparkbrief transforms your brain dumps into professional, comprehensive Product Requirements Documents that actually make sense.
+
+Generate investor-ready documentation, technical specifications, and team-aligned requirements—all powered by AI and optimized for your workflow.
+
+> **🔥 Ready to accelerate your product workflow?**  
+> **[Start your free trial at www.sparkbrief.io →](https://www.sparkbrief.io)**
+
+---
+
+## 📸 **See Sparkbrief in Action**
+
+<div align="center">
+  <p><em>Watch how our AI transforms a simple product idea into a comprehensive PRD with technical specifications, user stories, and acceptance criteria—all in under 10 minutes.</em></p>
+  
+  <!-- PLACE YOUR APP SCREENSHOTS HERE -->
+  <table>
+    <tr>
+      <td align="center">
+        <img src="screenshot-placeholder-1.png" alt="Index Screen" width="300">
+        <br><b>1. Enter Your Idea</b>
+        <br><em>Simple prompt input</em>
+      </td>
+      <td align="center">
+        <img src="screenshot-placeholder-2.png" alt="AI Generation" width="300">
+        <br><b>2. AI Generation</b>
+        <br><em>8-step process</em>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="screenshot-placeholder-3.png" alt="PRD Output" width="300">
+        <br><b>3. Professional PRD</b>
+        <br><em>Complete documentation</em>
+      </td>
+      <td align="center">
+        <img src="screenshot-placeholder-4.png" alt="Export Options" width="300">
+        <br><b>4. Export & Share</b>
+        <br><em>Multiple formats</em>
+      </td>
+    </tr>
+  </table>
+  
+  <p><strong>From idea to professional documentation in minutes, not hours.</strong></p>
+</div>
+
+---
+
+## ✨ **Key Features**
+
+| Feature | Description |
+|---------|-------------|
+| 🤖 **8-Step AI Generation** | Comprehensive PRDs covering product vision, technical architecture, user stories, and acceptance criteria |
+| 📄 **Multi-Format Export** | Download as Markdown, HTML, PDF, or structured JSON—perfect for any workflow or AI coding agent |
+| ⚙️ **Technical Specifications** | Auto-generated API specs, database schemas, and system architecture diagrams |
+
+---
+
+## 🎯 **Built for Modern Product Teams**
+
+Sparkbrief understands that different roles need different approaches to product documentation. Our AI adapts to your persona and workflow:
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>👔 Traditional Product Managers</h3>
+      <ul>
+        <li>Enterprise-ready PRDs with compliance and audit trails</li>
+        <li>Simple ROI calculations and business metrics</li>
+        <li>Integration specs for existing tool stacks</li>
+        <li><em>Perfect for regulated industries and large teams</em></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🎨 Creative "Vibecoders"</h3>
+      <ul>
+        <li>Turn creative concepts into professional documentation</li>
+        <li>Visual-first approach with design considerations</li>
+        <li>Bridge creative vision with technical requirements</li>
+        <li><em>From indie app ideas to startup MVPs</em></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>⚡ Technical "Vibecoders"</h3>
+      <ul>
+        <li>Architecture documentation and API specifications</li>
+        <li>Developer onboarding and contribution guides</li>
+        <li><em>Perfect for senior developers and tech leads</em></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🚀 **Why Teams Choose Sparkbrief**
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>⚡ Speed & Efficiency</h3>
+      <ul>
+        <li>Generate complete PRDs in 2-3 minutes</li>
+        <li>Instant from idea to creation feeling</li>
+        <li>Perfect guidelines for AI powered coding systems</li>
+      </ul>
+    </td>
+    <td align="center" width="33%">
+      <h3>🎯 Professional Quality</h3>
+      <ul>
+        <li>Comprehensive technical specifications</li>
+        <li>Ready for integration with Lovable or Bolt.</li>
+        <li>Enhance your workflow, experience less hallucinations!</li>
+      </ul>
+    </td>
+    <td align="center" width="33%">
+      <h3>🔧 Developer Friendly</h3>
+      <ul>
+        <li>Machine-readable outputs for AI agents</li>
+        <li>Compatible with VS Code, Cursor, Kilo, etc</li>
+        <li>Export to any format your team needs</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🌐 **Get Started Today**
+
+<div align="center">
+  
+  **Ready to transform your product development workflow?**  
+  Join us on our journey where we already accelerated our own documentation process with AI.
+
+  ### **[🚀 Start Your Free Trial → www.sparkbrief.io](https://www.sparkbrief.io)**
+
+  ✅ No credit card required • ✅ Generate your first PRD in under 10 minutes • ✅ Free tier available
+
+</div>
+
+---
+
+## 🤝 **Support & Community**
+
+Questions about implementing Sparkbrief in your workflow? Want early access to new features?
+
+- 📧 **Email:** [info@sparkbrief.io](mailto:info@sparkbrief.io)
+- 🐛 **Issues:** [GitHub Community](https://github.com/nuttyproducer/sparkbrief.io/issues)
+- 🐦 **Twitter:** [@sparkbrief](https://x.com/sparkbrief)
+- 📝 **Helpcenter:** [blog.sparkbrief.io](https://sparkbrief.io/help)
+
+---
+
+<div align="center">
+  <p><em>SPARKBRIEF © 2025 by NuttyProducer. All rights reserved.</em></p>
+  <p><strong>Built with ❤️ for modern product teams.</strong></p>
+</div>
